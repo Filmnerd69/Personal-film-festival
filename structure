@@ -1,0 +1,16 @@
+personal-film-festival/
+│
+├── css/
+│   ├── style.css
+│   └── /* Other CSS files */
+│
+├── js/
+│   ├── script.js
+│   └── /* Other JavaScript files */
+│
+├── img/
+│   └── /* Image files */
+│
+├── index.html
+│
+└── /* Other HTML files */
